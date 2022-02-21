@@ -10,6 +10,7 @@ Machine Learning Pipeline
 
 
 Current Repository Structure
+
 .
 ├── Batch_1000
 ├── Batch_2000
@@ -18,14 +19,14 @@ Current Repository Structure
 ├── Batch_4000
 ├── Batch_5000
 ├── classification_models
-│   ├── logistic_regression.py
-│   ├── multinomial_nb.py
-│   ├── passive_aggressive.py
+│   ├── logistic_regression.py
+│   ├── multinomial_nb.py
+│   ├── passive_aggressive.py
 ├── clustering_models
-│   ├── kmeans_clustering.py
-│   ├── birch_clustering.py
+│   ├── kmeans_clustering.py
+│   ├── birch_clustering.py
 ├── preprocessing
-│   ├── preprocess.py
+│   ├── preprocess.py
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -38,6 +39,7 @@ Current Repository Structure
 ├── requirements.txt
 ├── test.py
 └── train.py
+
 
 
 About the Dataset
